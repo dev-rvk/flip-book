@@ -181,9 +181,9 @@
 	bookConfig.BackgroundSoundButtonVisible = "Show";
 	bookConfig.FlipSound = "No";
 	bookConfig.BackgroundSoundLoop = "-1";
-	bookConfig.AutoPlayButtonVisible = "Show";
+	bookConfig.AutoPlayButtonVisible = "No";
 	bookConfig.autoPlayAutoStart = "No";
-	bookConfig.autoPlayDuration = "9";
+	bookConfig.autoPlayDuration = "1";
 	bookConfig.autoPlayLoopCount = "1";
 	bookConfig.ZoomButtonVisible = "Show";
 	bookConfig.maxZoomWidth = "1400";
