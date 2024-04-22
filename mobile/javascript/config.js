@@ -164,7 +164,7 @@
 	shareObj = [];
 	bookConfig.isInsertFrameLinkEnable = "Show";
 	bookConfig.addCurrentPage = "No";
-	bookConfig.EmailButtonVisible = "Show";
+	bookConfig.EmailButtonVisible = "No";
 	bookConfig.btnShareWithEmailBody = "{link}";
 	bookConfig.ThumbnailsButtonVisible = "Show";
 	bookConfig.thumbnailColor = "#333333";
@@ -176,7 +176,7 @@
 	bookConfig.leastSearchChar = "3";
 	bookConfig.searchKeywordFontColor = "#FFB000";
 	bookConfig.searchHightlightColor = "#ffff00";
-	bookConfig.SelectTextButtonVisible = "Show";
+	bookConfig.SelectTextButtonVisible = "No";
 	bookConfig.PrintButtonVisible = "Hide";
 	bookConfig.BackgroundSoundButtonVisible = "Show";
 	bookConfig.FlipSound = "No";
