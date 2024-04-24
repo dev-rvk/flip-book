@@ -250,7 +250,7 @@
 	bookConfig.OpenWindow = "Blank";
 	bookConfig.showLinkHint = "No";
 	bookConfig.MidBgColor = "#901823";
-	bookConfig.totalPageCount = 28;
+	bookConfig.totalPageCount = 30;
 	bookConfig.largePageWidth = 1414;
 	bookConfig.largePageHeight = 2000;;
 	bookConfig.securityType = "1";
